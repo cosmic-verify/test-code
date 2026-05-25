@@ -1,0 +1,1 @@
+pip install numpy pandas matplotlib scipy requests beautifulsoup4 pillow opencv-python pygame tensorflow keras plotly
